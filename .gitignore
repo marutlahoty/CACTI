@@ -1,0 +1,47 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled classes
+*.class
+
+# Maven build files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Logs
+*.log
+logs/
+
+# Maven release plugin metadata
+release.properties
+
+# Spring Boot
+mvnw
+mvnw.cmd
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific files (Eclipse, NetBeans, and so on)
+.classpath
+.project
+.settings/
+*.prefs
+
+# Editor-specific files
+*~
+*.swp
+*.bak
+*.cache
+
+# Operating System files
+.DS_Store
+Thumbs.db
